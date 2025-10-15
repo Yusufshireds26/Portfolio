@@ -1,66 +1,65 @@
-# 👋 Hi, I’m Yusuf Shire
-
-🎓 **Data Science Undergraduate** at **UNC Charlotte**  
-💡 Passionate about **Machine Learning, AI, and Data Visualization**  
-📍 Based in Charlotte, NC | 💼 Open to Data Science Internships
+# Yusuf Shire - Data Science Portfolio
 
 ---
 
-## 🧠 About Me
-I’m a Data Science student at UNC Charlotte who loves exploring patterns in data to solve real-world problems.  
-I enjoy building predictive models, visual dashboards, and experimenting with AI tools that bring insights to life.  
+## Hi, I’m Yusuf Shire 👋
+
+Data Science student at UNC Charlotte, building hands-on ML models, analyzing large datasets, and creating visualizations that turn data into actionable insights. Explore my projects below to see what I’ve been working on.
 
 ---
 
-## 🧩 Featured Projects
+## 🏆 Projects
 
-### 🏀 [NBA Salary Predictor](https://github.com/Yusufshireds26/Nba-Salary-Predictor)
-Built a predictive model to estimate NBA player salaries using performance metrics.  
-**Skills:** Python, Pandas, Scikit-learn, Matplotlib  
+### ⭐ NBA Salary Predictor
 
-![NBA Screenshot](https://raw.githubusercontent.com/Yusufshireds26/Nba-Salary-Predictor/main/assets/screenshot.png)
+Predict NBA player salaries using historical performance and player attributes, leveraging Linear Regression and OneHotEncoder for categorical features.
+**Skills:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+![NBA Salary Predictor]
+[View on GitHub](https://github.com/Yusufshireds26/Nba-Salary-Predictor)
 
----
+### 🌟 NBA All-Star Predictor
 
-### 🎶 [Music Reaction Study](https://github.com/Yusufshireds26/Music-Reaction-Study)
-Simulated reaction time data to analyze how music affects focus using one-way ANOVA.  
-**Skills:** Python, NumPy, SciPy, Seaborn  
+Developed classification model to predict NBA All-Star status using Logistic Regression and Random Forest, analyzing key player stats including points, assists, rebounds, age, and position.
+**Skills:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
+![NBA All-Star Predictor]
+[View on GitHub](https://github.com/Yusufshireds26/NBA-All-Star-Predictor)
 
-![Music Screenshot](https://raw.githubusercontent.com/Yusufshireds26/Music-Reaction-Study/main/assets/screenshot.png)
+### 🎵 Music Reaction Study
 
----
+Simulated reaction time data for 30 participants under three music conditions, applied one-way ANOVA to determine significant differences, and visualized distributions with Seaborn.
+**Skills:** Python, NumPy, SciPy, Seaborn, Matplotlib
+![Music Reaction Study]
+[View on GitHub](https://github.com/Yusufshireds26/Music-Reaction-Study)
 
-### 🤖 [AI Story & Art Generator](https://github.com/Yusufshireds26/AI-Story-Project)
-Developed an NLP-based system that generates stories and visual scenes from sentiment analysis.  
-**Skills:** Python, NLP, TextBlob, Pillow  
+### 📺 Streaming Platform Trends
 
-![AI Story Screenshot](https://raw.githubusercontent.com/Yusufshireds26/AI-Story-Project/main/assets/screenshot.png)
+Analyzed large streaming datasets to uncover audience behavior by age, device, and genre. Created pivot tables, aggregations, and visualizations for actionable insights.
+**Skills:** Python, Pandas, NumPy, Matplotlib, Seaborn
+![Streaming Platform Trends]
+[View on GitHub](https://github.com/Yusufshireds26/Streaming-Platform-Trends)
 
----
+### 🤖 AI Story & Art Generator
 
-### 📺 [Streaming Platform Trends Dashboard](https://github.com/Yusufshireds26/streaming-platform-trends)
-Analyzed audience behavior and engagement across devices and genres.  
-**Skills:** Python, Pandas, NumPy, Seaborn, Matplotlib  
-
-![Streaming Screenshot](https://raw.githubusercontent.com/Yusufshireds26/streaming-platform-trends/main/assets/screenshot.png)
+Built NLP-based story generator with sentiment analysis and image creation. Generated PDF storyboards with visual summaries of sentiment-tagged scenes.
+**Skills:** Python, TextBlob, Pillow, Matplotlib
+![AI Story Generator]
+[View on GitHub](https://github.com/Yusufshireds26/AI-Story-Project)
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Python, SQL, R (beginner)  
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-**Tools:** Jupyter Notebook, Git, VS Code, Excel, Tableau  
+
+**Languages:** Python, R, SQL, JavaScript
+**Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+**Tools:** Jupyter Notebook, Git, VS Code, Tableau, Excel
+**Other:** Machine Learning, Deep Learning, Data Visualization, Data Analysis, AI
 
 ---
 
-## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/yusuf-shire-/)
-- [Email](Yshire@Uncc.edu)
-- [GitHub](https://github.com/Yusufshireds26)
+## 📫 Connect with Me
 
----
-
-⭐️ *Thanks for visiting my portfolio — feel free to explore my projects and reach out if you’d like to collaborate!*
-
+* [LinkedIn](https://www.linkedin.com/in/yusuf-shire-/)
+* [GitHub](https://github.com/Yusufshireds26)
+* Email: [Yshire@Uncc.edu)
 
 ✉️ If you’re a recruiter  and want to chat about internships  — feel free to DM or email me.
