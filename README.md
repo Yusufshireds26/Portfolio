@@ -1,4 +1,5 @@
 💼 Yusuf Shire — Data Science Portfolio
+> 🚀 **Explore my Data Science projects:** Machine Learning, AI, NLP, and Data Analytics — all in one place.
 
 📍 Location: Charlotte, NC | 🎓 UNC Charlotte — B.S. in Data Science (Exp. 2026)
 🔗 LinkedIn : https://www.linkedin.com/in/yusuf-shire-/
